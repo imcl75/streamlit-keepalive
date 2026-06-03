@@ -9,6 +9,7 @@ APPS = [
     "https://word-puzzles.streamlit.app/",
     "https://wfa-reports.streamlit.app/",
     "https://spelling-tracker-home-learning.streamlit.app/",
+    "https://menu-publisher-new.streamlit.app/",
 ]
 
 def wake_app(page, url):
