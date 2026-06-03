@@ -8,6 +8,7 @@ APPS = [
     "https://wfa-handwriting-tool.streamlit.app/",
     "https://word-puzzles.streamlit.app/",
     "https://wfa-reports.streamlit.app/",
+    "https://spelling-tracker-home-learning.streamlit.app/",
 ]
 
 for url in APPS:
